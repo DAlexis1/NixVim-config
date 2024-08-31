@@ -12,6 +12,7 @@
     ./treesitter.nix
     ./noice.nix
     ./conform.nix
+    ./neorg.nix
   ];
   viAlias = true;
   vimAlias = true;
